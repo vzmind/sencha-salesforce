@@ -1,0 +1,11 @@
+---
+#sandbox:
+#client_id: '****'
+#client_secret: '****'
+
+# production
+client_id: '****'
+client_secret: '****'
+
+
+
